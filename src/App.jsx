@@ -6,7 +6,7 @@ function App() {
   return (
     <div className=''>
       <Hero />
-      <div className='bg-[#48EB94] h-60 md:h-80'></div>
+      <div className='bg-[#48EB94] h-60 md:h-80 2xl:h-[40vh]'></div>
       <Footer />
     </div>
 
