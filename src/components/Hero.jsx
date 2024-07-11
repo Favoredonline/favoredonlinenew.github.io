@@ -59,7 +59,7 @@ const Hero = () => {
             <a href="https://www.shemodeltech.com" target="_blank">SHE MODEL TECH</a>
           </button>
           <button className="text-sm bg-[#D2AE2F] px-4 py-2">
-            <a href="https://www.techtalentscity.com" target="_blank">TECH TALENT CITY</a>
+            <a href="https://www.techtalentscity.com" target="_blank">TECHTALENTS CITY</a>
           </button>
         </div>
       )}
