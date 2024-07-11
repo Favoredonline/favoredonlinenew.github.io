@@ -72,8 +72,7 @@ const Hero = () => {
             <span className="text-[#D2AE2F]">Talent Development</span>
           </h1>
           <p className="mt-6 text-sm md:text-xl">
-            Leading the Way in Technology Education and Career Advancement for
-            Tomorrow&apos;s Pioneers
+          Leading the Future of Tech through Education
           </p>
         </div>
       </div>
