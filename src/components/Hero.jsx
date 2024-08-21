@@ -25,7 +25,7 @@ const Hero = () => {
 
   return (
     <div
-      className="relative bg-black/20 text-white h-screen bg-center bg-cover"
+      className="relative bg-black/20 text-white h-full bg-center bg-cover"
       style={{ backgroundImage: `url(${backg})` }}
     >
       {/* Navigation Bar */}
@@ -77,7 +77,7 @@ const Hero = () => {
           </p>
         </div>
       </div>
-      <div className="relative z-10 flex flex-col lg:flex-row justify-center items-center md:mt-8 pb-8 md:pb-16 px-12 xl:px-20">
+      <div className="relative z-10 flex flex-col lg:flex-row justify-center items-center md:mt-8 pb-8 md:pb-16 2xl:pb-24 px-12 xl:px-20">
         <div className="relative w-[350px] md:w-[600px] lg:w-[890px] h-[280px] md:h-[350px] xl:h-[500px]">
           <img
             src={ttc}
