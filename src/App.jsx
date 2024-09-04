@@ -1,13 +1,24 @@
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+
+import Home from './Pages/Home'
+import ScrollToTop from './components/ScrollToTop'
+import Navbar from './components/Navbar'
+import About from './Pages/About'
 import Footer from './components/Footer'
-import Hero from './components/Hero'
 
 function App() {
 
   return (
     <div className='bg-[#1a1a1a] min-h-screen'>
-      <Hero />
-      {/* <div className='bg-[#48EB94] h-60 md:h-80 2xl:h-[40vh]'></div> */}
-      <Footer />
+      <BrowserRouter>
+        <ScrollToTop />
+        <Navbar />
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/about' element={<About />} />
+        </Routes>
+        <Footer />
+      </BrowserRouter>
     </div>
 
   )
