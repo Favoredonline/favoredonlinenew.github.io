@@ -17,7 +17,9 @@ const Navbar = () => {
           <img src={logo} alt="Favored Online Inc Logo" className="w-40" />
         </Link>
         <div className="space-x-4 hidden md:block">
+          <button className="text-sm bg-[#81bb36] text-white px-6 py-2">
             <Link to={'/about'} className="font-medium text-white uppercase text-sm">About US</Link>
+          </button>
           <button className="text-sm bg-[#EB48D5] text-white px-4 py-2">
             <a href="https://www.shemodeltech.com" target="_blank">SHE MODEL TECH</a>
           </button>
@@ -39,7 +41,9 @@ const Navbar = () => {
               <FiX />
             </button>
           </div>
-          <Link to={'/about'} className="font-medium text-white uppercase px-4 py-2 mb-4" onClick={toggleMobileMenu}>About US</Link>
+          <button className="text-sm bg-[#81bb36] text-white px-10 py-2  mb-4">
+          <Link to={'/about'} className="font-medium text-white uppercase" onClick={toggleMobileMenu}>About US</Link>
+          </button>
           <button className="text-sm bg-[#EB48D5] text-white px-4 py-2 mb-4">
             <a href="https://www.shemodeltech.com" target="_blank">SHE MODEL TECH</a>
           </button>

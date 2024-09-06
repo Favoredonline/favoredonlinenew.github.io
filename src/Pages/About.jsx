@@ -9,11 +9,11 @@ const About = () => {
       </div>
       <div className="grid md:grid-cols-2 gap-8 md:gap-5 lg:gap-10 text-white my-12 lg:my-24 lg:mx-20 leading-7">
         <div>
-          <p className="text-3xl text-[#D2AE2F] font-semibold mb-5">-Our Mission</p>
+          <p className="text-3xl text-[#D2AE2F] font-semibold mb-5">Our Mission</p>
           <p>Our mission is to continuously develop solutions and technologies that advance education, empowering innovators and professionals to learn, grow, and create transformative technologies for a better world.</p>
         </div>
         <div>
-          <p className="text-3xl text-[#EB48D5] font-semibold mb-5">-Our Vision</p>
+          <p className="text-3xl text-[#EB48D5] font-semibold mb-5">Our Vision</p>
           <p>Our vision is to develop educational technologies that empower innovators and professionals to unlock their full potential.</p>
         </div>
       </div>
