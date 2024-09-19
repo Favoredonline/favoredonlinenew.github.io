@@ -5,8 +5,8 @@ const About = () => {
     <div className="mx-auto px-4 sm:px-6 lg:px-8 mb-10">
       <div className="text-center">
         <p className="text-gray-100 font-bold text-3xl lg:text-4xl xl:text-5xl">About Favored Online</p>
-        <p className="text-gray-100 col-span-4 mt-8"><strong>Favored Online Inc.</strong> serves as the parent holding company for two initiatives: <strong className="text-[#D2AE2F]">TechTalents City</strong> and <strong className="text-[#EB48D5]">She Model Tech.</strong></p>
-        <p>Founded in July 2018, and originally registered as Favored Online Skills Acquisition Network in March 2020, the company was rebranded and officially incorporated as Favored Online Inc.</p>
+        <p className="text-gray-100 col-span-4 mt-8"><strong>Favored Online Inc.</strong> serves as the parent holding company for two initiatives: <strong className="text-[#D2AE2F]">TechTalents City</strong> and <strong className="text-[#EB48D5]">She Model Tech.</strong>
+          Founded in July 2018, and originally registered as Favored Online Skills Acquisition Network in March 2020, the company was rebranded and officially incorporated as Favored Online Inc.</p>
       </div>
       <div className="grid md:grid-cols-2 gap-8 md:gap-5 lg:gap-10 text-white my-12 lg:my-24 lg:mx-20 leading-7">
         <div>
@@ -24,7 +24,7 @@ const About = () => {
         </div>
         <div className=" text-white flex flex-col justify-center leading-7 md:leading-10">
           <h2 className="text-3xl font-bold mb-5">Meet Our Founder</h2>
-          <p className="mb-4">My name is <a href="https://www.linkedin.com/in/opeyemi-adeniran/" target="_blank" rel="noopener noreferrer" className="text-[#D2AE2F] font-semibold">Opeyemi T. Adeniran</a>, I am an AI Research Engineer and the founder of three different initiatives: TechTalents City, SHE MODEL TECH, and <a href="https://www.morgantechfest.com/" target="_blank" rel="noopener noreferrer" className="text-[#D2AE2F] font-semibold">Morgan TechFest.</p>
+          <p className="mb-4">My name is <a href="https://www.linkedin.com/in/opeyemi-adeniran/" target="_blank" rel="noopener noreferrer" className="text-[#D2AE2F] font-semibold">Opeyemi T. Adeniran</a>, I am an AI Research Engineer and the founder of three different initiatives: TechTalents City, SHE MODEL TECH, and <a href="https://www.morgantechfest.com/" target="_blank" rel="noopener noreferrer" className="text-[#D2AE2F] font-semibold">Morgan TechFest.</a></p>
         </div>
       </div>
     </div>
