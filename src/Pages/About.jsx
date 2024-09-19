@@ -1,5 +1,4 @@
 import IMAGE from '../assets/lady.jpg';
-
 const About = () => {
   return (
     <div className="mx-auto px-4 sm:px-6 lg:px-8 mb-10">
