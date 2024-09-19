@@ -5,7 +5,9 @@ const About = () => {
     <div className="mx-auto px-4 sm:px-6 lg:px-8 mb-10">
       <div className="text-center">
         <p className="text-gray-100 font-bold text-3xl lg:text-4xl xl:text-5xl">About Favored Online</p>
-        <p className="text-gray-100 col-span-4 mt-8"><strong>Favored Online Inc.</strong> serves as the parent holding company for two initiatives: <strong className="text-[#D2AE2F]">TechTalents City</strong> and <strong className="text-[#EB48D5]">She Model Tech.</strong></p>
+      <p className="text-gray-100 col-span-4 mt-8">
+  <strong>Favored Online Inc.</strong>, founded in July 2018 and originally registered as Favored Online Skills Acquisition Network in March 2020, was rebranded and officially incorporated as Favored Online Inc. It serves as the parent holding company for two initiatives: <strong className="text-[#D2AE2F]">TechTalents City</strong> and <strong className="text-[#EB48D5]">She Model Tech.</strong>
+</p>
       </div>
       <div className="grid md:grid-cols-2 gap-8 md:gap-5 lg:gap-10 text-white my-12 lg:my-24 lg:mx-20 leading-7">
         <div>
