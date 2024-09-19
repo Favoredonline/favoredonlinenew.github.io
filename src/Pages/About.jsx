@@ -24,7 +24,7 @@ const About = () => {
         </div>
         <div className=" text-white flex flex-col justify-center leading-7 md:leading-10">
           <h2 className="text-3xl font-bold mb-5">Meet Our Founder</h2>
-          <p className="mb-4">My name is <a href="https://www.linkedin.com/in/opeyemi-adeniran/" target="_blank" rel="noopener noreferrer" className="text-[#D2AE2F] font-semibold">Opeyemi T. Adeniran</a>, I am an AI Research Engineer and the founder of three different initiatives: TechTalents City, SHE MODEL TECH, and <a href="https://www.morgantechfest.com/" target="_blank" rel="noopener noreferrer" className="text-[#D2AE2F] font-semibold">Morgan TechFest.</a></p>
+          <p className="mb-4">My name is <a href="https://www.linkedin.com/in/opeyemi-adeniran/" target="_blank" rel="noopener noreferrer" className="text-[#D2AE2F] font-semibold">Opeyemi T. Adeniran</a>, I am an AI Research Engineer and the founder of three different initiatives: TechTalents City, She Model Tech, and <a href="https://www.morgantechfest.com/" target="_blank" rel="noopener noreferrer" className="text-[#D2AE2F] font-semibold">Morgan TechFest.</a></p>
         </div>
       </div>
     </div>
