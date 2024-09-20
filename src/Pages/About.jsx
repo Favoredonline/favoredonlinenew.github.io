@@ -28,7 +28,7 @@ const About = () => {
         <div className=" text-white flex flex-col justify-center leading-7 md:leading-10">
           <h2 className="text-3xl font-bold mb-5">Meet Our Founder</h2>
         <p className="mb-4">
-  Hello, I'm <a href="https://www.linkedin.com/in/opeyemi-adeniran/" target="_blank" rel="noopener noreferrer" className="font-semibold underline">Opeyemi T. Adeniran</a>, an AI Research Engineer and the founder of:<br/> <strong className="text-[#D2AE2F]">TechTalents City</strong>, <strong className="text-[#EB48D5]">She Model Tech</strong>, and <a href="https://www.morgantechfest.com/" target="_blank" rel="noopener noreferrer" className="font-semibold underline">Morgan TechFest</a>.
+  Hello, I'm <a href="https://www.linkedin.com/in/opeyemi-adeniran/" target="_blank" rel="noopener noreferrer" className="font-semibold underline">Opeyemi T. Adeniran</a>, an AI Research Engineer and the founder of <strong className="text-[#D2AE2F]">TechTalents City</strong>, <strong className="text-[#EB48D5]">She Model Tech</strong>, and <a href="https://www.morgantechfest.com/" target="_blank" rel="noopener noreferrer" className="font-semibold underline">Morgan TechFest</a>.
 </p>
         </div>
       </div>
