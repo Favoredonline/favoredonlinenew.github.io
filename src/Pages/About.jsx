@@ -14,7 +14,7 @@ const About = () => {
       <div className="grid md:grid-cols-2 gap-8 md:gap-5 lg:gap-10 text-white my-12 lg:my-24 lg:mx-20 leading-7">
         <div>
           <p className="text-3xl text-[#D2AE2F] font-semibold mb-5">Our Vision</p>
-          <p>To be the premier global platform for fostering technical expertise, empowering innovators and professionals to lead in the rapidly evolving digital landscape.</p>
+          <p>To drive innovation and success by developing cutting-edge technologies and solutions that equip professionals with the skills, tools, and resources needed to excel in the tech industry.</p>
         </div>
         <div>
           <p className="text-3xl text-[#EB48D5] font-semibold mb-5">Our Vision</p>
