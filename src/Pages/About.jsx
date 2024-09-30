@@ -17,8 +17,8 @@ const About = () => {
           <p>To drive innovation by developing cutting-edge technologies that equip professionals with the skills and tools needed to excel in the tech industry.</p>
         </div>
         <div>
-          <p className="text-3xl text-[#EB48D5] font-semibold mb-5">Our Vision</p>
-          <p>Our vision is to develop educational technologies that empower innovators and professionals to unlock their full potential.</p>
+          <p className="text-3xl text-[#EB48D5] font-semibold mb-5">Our Mission</p>
+          <p>By developing innovative technologies and solutions, we empower professionals across industries with the skills, tools, and resources needed to excel in a constantly evolving tech-driven world.</p>
         </div>
       </div>
       <div className="flex flex-col md:flex-row gap-10 lg:mx-20">
